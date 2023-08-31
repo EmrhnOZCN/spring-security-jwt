@@ -23,7 +23,7 @@ To get started with this project, you will need to have the following installed 
 * JDK 17+
 * Maven 3+
 
-*## To build and run the project, follow these steps:
+ To build and run the project, follow these steps:
 
 * Clone the repository: `[git clone https://github.com/EmrhnOZCN/spring-security-jwt.git`
 * Navigate to the project directory: cd spring-boot-security-jwt
