@@ -31,4 +31,4 @@ To get started with this project, you will need to have the following installed 
 * Build the project: mvn clean install
 * Run the project: mvn spring-boot:run 
 
--> The application will be available at http://localhost:8080.
+-> The application will be available at http://localhost:8080/swagger-ui/index.html
